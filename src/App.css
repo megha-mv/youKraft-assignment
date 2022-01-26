@@ -1,0 +1,25 @@
+.main_div{
+    margin: auto;
+  width: 37%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+p {
+    color: red;
+    text-align: center;
+  }
+
+  #wrapper {
+    width:100%;
+    clear:both;
+  }
+  #first {
+    /* background-color:rgb(82, 70, 70); */
+    width:700px;
+    float:left;
+  }
+  #second {
+    background-color:rgb(226, 21, 182);
+    width:500px;
+    float:left;
+  }
